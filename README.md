@@ -5,7 +5,7 @@ Este procedimento lhe ajudará a instalar plugins para o *kubectl* utilizando o 
 **Pré-requisitos instalados:**
 - [x] git
 - [x] kubectl
-- [x] um cluster k8s configurado, no meu caso há uma no **Oracle Cloud (OKE)**
+- [x] um cluster k8s configurado. No meu caso há um cluster Kubernetes no **Oracle Cloud (OKE)**
 
 
 **Vamos aos passos:**
